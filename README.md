@@ -1,5 +1,5 @@
 # Iphone POO Desafio DIO 🌟❤️📱
-Este repositório foi criado para o estudo de Programação Orientada a Objetos, onde desenvolvi a implementação de um sistema bancário simples, utilizando conceitos como classes, classes abstratas, interfaces e listas.
+Este repositório foi criado para o estudo de Programação Orientada a Objetos, onde desenvolvi a implementação de um sistema de celular do iphone, utilizando conceitos como classes, classes abstratas e interfaces.
 
 ## 📍Stack utilizada
 
